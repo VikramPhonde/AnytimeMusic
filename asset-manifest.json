@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/AnytimeMusic/static/js/main.5aa3d818.js",
+    "static/js/787.434a905f.chunk.js": "/AnytimeMusic/static/js/787.434a905f.chunk.js",
+    "static/media/8.mp3": "/AnytimeMusic/static/media/8.436e33d8cfa55116973f.mp3",
+    "static/media/4.mp3": "/AnytimeMusic/static/media/4.125bad4631f46ca2be66.mp3",
+    "static/media/10.mp3": "/AnytimeMusic/static/media/10.33da8765a5becceae64a.mp3",
+    "static/media/3.mp3": "/AnytimeMusic/static/media/3.ae6980b775c88529acd5.mp3",
+    "static/media/6.mp3": "/AnytimeMusic/static/media/6.483e0d17ae8eee879e29.mp3",
+    "static/media/7.mp3": "/AnytimeMusic/static/media/7.628a8113b2cb8477c3af.mp3",
+    "static/media/5.mp3": "/AnytimeMusic/static/media/5.a6e942ca84d5d79e47f3.mp3",
+    "static/media/1.mp3": "/AnytimeMusic/static/media/1.86d43b4e73f4f373846a.mp3",
+    "static/media/2.mp3": "/AnytimeMusic/static/media/2.ea9ab6a69d957ee584e0.mp3",
+    "static/media/9.mp3": "/AnytimeMusic/static/media/9.a3037e7d651fe7e470e4.mp3",
+    "index.html": "/AnytimeMusic/index.html",
+    "main.5aa3d818.js.map": "/AnytimeMusic/static/js/main.5aa3d818.js.map",
+    "787.434a905f.chunk.js.map": "/AnytimeMusic/static/js/787.434a905f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5aa3d818.js"
+  ]
+}
